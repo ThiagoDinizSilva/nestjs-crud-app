@@ -1,0 +1,6 @@
+dist
+.husky
+.vscode
+enviroment
+node_modules
+coverage
